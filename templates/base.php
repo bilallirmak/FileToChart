@@ -4,7 +4,10 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <link rel = "stylesheet" href = "static\css\dropzone.css">
 <link rel = "stylesheet" href = "static\css\style.css">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1">
+
+
+
 </head>
 <body>
 
@@ -19,11 +22,8 @@
         <div class = "img-into"> 
             <header id="logo">
             
-                <!-- <a href="http://localhost/" rel="home"> -->
                 <img src="static\images\logo.png" alt="file to chart">
-                <!-- </a> -->
-
-
+                
             </header>
         </div>
 
